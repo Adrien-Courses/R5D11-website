@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://iut.adriencaubel.fr/sitemap.xml

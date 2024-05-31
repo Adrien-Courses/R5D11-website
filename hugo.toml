@@ -1,0 +1,66 @@
+baseURL = 'https://softwarearchitecture.fr/'
+languageCode = 'fr-FR'
+title = 'Intégration et Performance des SI'
+theme = "hugo-theme-relearn"
+relativeURLs = "True"
+enableRobotsTXT = true
+defaultContentLanguage = 'fr'
+
+[languages]
+  [languages.fr]
+    languageName = 'French'
+    title = 'Software Architecture'
+    weight = 1
+
+# For search functionality
+[outputs]
+  home = ["HTML", "RSS", "SEARCH", "SEARCHPAGE"]
+
+[params]
+  canonicalUrl = 'https://iut.adriencaubel.fr/'
+  author.name = "Adrien CAUBEL"
+  description = "Intégration et Performance des Systèmes d'information - IUT Rodez R5D11"
+  #alwaysopen = true
+  showVisitedLinks = true
+  disableInlineCopyToClipBoard = true
+  ordersectionsby = "weight"
+  titleSeparator = "-"
+  externalLinkTarget = "_blank"
+  themeVariant='learn'
+  custom_css = ["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"]
+
+# these values are hugo built in markup config
+[markup.highlight]
+  style = 'monokailight'
+  tabWidth = 4
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bullhorn'></i> Ressources"
+url = "more/resources/"
+weight = 1
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-camera'></i> Adrien CAUBEL"
+url = "https://adriencaubel.fr/"
+weight = 5
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-linkedin'></i> Linkedin"
+url = "https://www.linkedin.com/in/adriencaubel/"
+weight = 10
+
+[[menu.shortcuts]] 
+name = "<i class='fab fa-github'></i> Github"
+identifier = "ds"
+url = "https://github.com/adrien1212/software_architecture_blog"
+weight = 15
+
+
+
+[security.exec]
+  allow = ['^asciidoctor$']
