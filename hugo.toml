@@ -1,7 +1,8 @@
 baseURL = 'https://softwarearchitecture.fr/'
 languageCode = 'fr-FR'
 title = 'Intégration et Performance des SI'
-theme = "hugo-theme-relearn"
+theme = ["hugo-embed-pdf-shortcode", "hugo-theme-relearn"]
+enableInlineShortcodes = true
 relativeURLs = "True"
 enableRobotsTXT = true
 defaultContentLanguage = 'fr'
@@ -9,7 +10,7 @@ defaultContentLanguage = 'fr'
 [languages]
   [languages.fr]
     languageName = 'French'
-    title = 'Software Architecture'
+    title = 'Intégration et Performance des SI'
     weight = 1
 
 # For search functionality
@@ -20,13 +21,13 @@ defaultContentLanguage = 'fr'
   canonicalUrl = 'https://iut.adriencaubel.fr/'
   author.name = "Adrien CAUBEL"
   description = "Intégration et Performance des Systèmes d'information - IUT Rodez R5D11"
-  #alwaysopen = true
+  alwaysopen = true
   showVisitedLinks = true
   disableInlineCopyToClipBoard = true
   ordersectionsby = "weight"
   titleSeparator = "-"
   externalLinkTarget = "_blank"
-  themeVariant='learn'
+  themeVariant='my-custom-variant'
   custom_css = ["https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"]
 
 # these values are hugo built in markup config
