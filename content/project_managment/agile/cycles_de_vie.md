@@ -79,3 +79,5 @@ Aujourd’hui, par abus de langage lorsqu’on parle de *développement itérati
 l’industrie logicielle puisque chacun a un objectif différent et doit être géré différemment :
 - Le développement incrémental vous donne la possibilité d’améliorer votre processus de développement, ainsi que d’ajuster les exigences à l’évolution de l’environnement.
 - Le développement itératif vous aide à améliorer la qualité de votre produit.
+
+{{< embed-pdf url="/pdf/session1/cycle_de_vie-diapo.pdf" hidePaginator="true" >}}
