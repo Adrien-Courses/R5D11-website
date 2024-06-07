@@ -4,6 +4,13 @@ title = "Lean VS Agile"
 weight = 40
 +++
 
+{{% notice style="tip" title="Ressources" icon="book" %}}
+- [The Difference between Lean and Agile Software Development](https://www.leanessays.com/2015/06/lean-software-development-history.html)
+- [ LEAN vs AGILE : col bleu vs col blanc ? - Scrum Life](https://youtu.be/YTTiWZiUnjQ)
+{{% /notice %}}
+
+## Similarité Lean & Agile
+
 Lean et Agile sont deux variantes d’un même mouvement dans l’industrie du logiciel. Elles
 se concentrer sur la livraison efficace de produits dont les clients ont réellement besoin. La
 différence réside dans les moyens mis en œuvre pour atteindre cet objectif.
@@ -20,7 +27,19 @@ Agile et Lean sont des concepts généraux dont
 - Lean Software Development est une implémentation Lean
 - Kanban est une combinaison des principes Lean et Agile
 
-## Agile VS Lean
+## Différences Lean & Agile
+
+### La Principale différence
+{{% notice style="note" title="Affirmation" icon="check" %}}
+The expected organizational benefits of agile often failed to materialize because agile focused on optimizing software development, which frequently was not the system constraint. Lean software development differed from agile in that it worked to **optimize flow efficiency across the entire value stream** “from concept to cash.” 
+{{% /notice %}}
+
+> All we are doing is looking at the time line, from the moment the customer gives us an order to the point when we collect the cash. And we are reducing that time line by removing the non-value-added wastes.
+
+Le Lean Management concerne la gestion des équipes mais aussi des ressources matérielles et immatérielles (gestion globale), tandis que les méthodologies agiles sont appliquées pour la gestion du cycle de vie des projets (gestion locale).
+
+### Autres différences 
+
 - Dans le framework Scrum on a une séparation nette entre le process qui est défini et géré par
 le Scrum Master tandis que le produit est déterminé par le Product Owner.
 En Lean on réunit le process et le produit, car la séparation ne semble pas pertinente. On
@@ -35,3 +54,15 @@ concepteurs et des autres développeurs affectés à leurs projets. Sa principal
 convaincante du produit.
 
 - Le Lean essaie d’orienter l’équipe vers du temps réel. Par exemple, avec Scrum on va "attendre" la rétrospective pour faire l’analyse du Sprint, mais on va oublier ce qu’il sait passer les premiers jours ...
+
+### Les principes
+![Agile vs Lean](../images/agile_vs_lean.png)
+
+Avec reprenant les principes des deux mouvement, on pourrait dire :
+- Agile se concentre principalement sur la [dimension humaine]({{% relref "dimension_humaine.md" %}})
+- Lean aurait tendance à se concentrer sur la *Discipline*
+
+## Conclusion
+Lean et Agile sont des approches complémentaires, et non pas en concurrence l'une avec l'autre
+
+> On peut faire de la musique avec un seul instrument, mais c'est souvent plus beau avec un orchestre ! Bien vu donc, Agilité et Lean main dans la main. 

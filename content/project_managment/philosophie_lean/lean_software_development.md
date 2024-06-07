@@ -38,3 +38,26 @@ marché représente un avantage concurrentiel incroyable. Ainsi lorsqu’on parl
 Lorsqu'on parle Lean, on parle gaspillage. En informatique les principales sources de gaspillage sont les suivantes :
 
 ![8 wastes](../images/waste.png)
+
+- Overproduction : construire ce que le client veut; ni plus ni moins. Ne construisez pas les fonctionnalités que le client ne veut pas **encore**. 
+
+- Extraprocessing : le client s'en moque du framework, du langage, de l'architecture, etc ... En informatique on a tendance à passer trop de temps pour trouver la bonne approche. Il faut passer du temps mais la valeur n'existe que s'il y a la création du produit. Au début partez simple, pas besoin d'avoir un système scalable, chaque chose en son temps.
+
+- Defects : prendre du temps pour bien comprendre le besoin du client.
+
+- Inventory : en informatique l'inventaire va être notre tableau Kanban par exemple. Si on a trop d'item encours on va faire du multitâches et donc réduire l'efficacité de l'équipe. *Pull* au lieu de *Push* et comprendre les goulots d'étranglement.
+
+- Transportation : les mouvements du code (Pipeline, CI/CD), essayer d'automatiser l'ensemble pour délivrer et récupérer du feedback rapidement.
+
+- Motion : mouvement des personnes. Nous sommes souvent interrompu : réunion, switch de projet, être sur plusieurs projets, réorganisation des équipes, etc ... 
+
+- Waiting : on peut vite se retrouver dépendant des autres (du code de d'autres développeurs, des user-stories, des clients,  de la DSI, ...). Il faut trouver des moyens de réduire au minimum les temps d'attente.
+
+- Unused Talent : l'objectif est de *sentir* les compétences des personnes, car même si aujourd'hui elles ne sont peut-être pas nécessaire d'ici quelques mois elles pourraient intéresser l'entreprise. E.g. :
+   - quelqu'un qui aime faire de UI/UX 
+   - quelqu'un qui aime rédiger 
+
+
+{{% notice style="grey" title=" " icon=" " %}}
+Identifiez les sources de gaspillage dans l'organisation et essayer de trouver des solutions pour les réduire et/ou les éliminer.
+{{% /notice %}}
