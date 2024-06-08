@@ -1,0 +1,60 @@
+
++++
+title = "Waterfall est itératif"
+weight = 10
++++
+
+Dans cette section nous allons revenir sur le fonctionnement de la méthode Waterfall au travers de l'affirmation suivante.
+
+{{% notice style="note" title="Affirmation" icon="check" %}}
+Waterfall est itératif
+{{% /notice %}}
+
+## Pourquoi cela est surprenant ?
+Premièrement définissons ce que signifie *Itératif*
+
+> Avec le développement itératif, nous réservons du temps pour améliorer ce que nous avons. ⇒ On refait. (voir [Cycle de vie - itératif]({{% relref "cycles_de_vie.md" %}}))
+
+Cela devrait pour surprendre car traditionnellement on présente le modèle en cascade comme une méthodologie de travail avec un enchaînement de tâche successive, ce qui conduit à un effet tunnel; **Chaque phase ne commence qu'une fois les résultats de la phase précédente validés**.
+
+Et on ne se rend compte uniquement lors de la livraison que le travail réalisé n'est pas forcément en adéquation avec les spécifications du client.
+
+![Waterfall incomplet](../images/waterfall1.png?width=40pc)
+
+## Mais revenons au document de référence
+{{% notice style="tip" title="Ressources" icon="book" %}}
+- [Waterfall document d'origine par Royce - Managing the development of large software systems](https://www.praxisframework.org/files/royce1970.pdf)
+- [Explication du Waterfall en se basant sur Rouyce](http://beza1e1.tuxen.de/waterfall.html)
+{{% /notice %}}
+
+L'étude du modèle en Cascade s'arrête souvent à la conclusion du paragraphe précédent. Néanmoins si nous lisons le document d'origine nous nous rendons vite compte que le modèle en Cascade n'est pas celui souvent décrit.
+
+Dans son article fondateur, W.W. Royce critique le modèle en cascade. Il remarque que chaque phase doit pouvoir nécessairement renvoyer à la phase précédente en cas de défauts constatés en aval. En effet, les exigences et besoins peuvent se montrer incomplets ou de qualité insuffisante (ambiguïté, incohérence, etc.). De plus, le client peut ne pas être pleinement conscient de ses exigences avant d'avoir vu le logiciel fonctionner.
+
+![Waterfall itératif](../images/waterfall2.png?width=40pc)
+
+Mais n'impacter que la phase du dessus n'est pas forcément le plus efficace. Il illustre ces propos avec l'exemple suivant :  
+> La phase de test qui a lieu à la fin du cycle de développement est le premier événement pour lequel par exemple la synchronisation, le stockage, les transferts d'entrée/sortie, etc. sont **expérimentés et *non analysés***.  Pourtant, si ces phénomènes ne parviennent pas à satisfaire les diverses contraintes externes, une refonte majeure est invariablement nécessaire. Un correctif uniquement du code (phase précédente) n'est pas suffisante, les changements de conception requis risquent d'être si perturbants que les exigences logicielles sur lesquelles la conception est basée et qui justifient tout seront violées.
+
+Nous avons donc des impacts forts entre le test --> le code --> l'analyse. **Les itérations ne sont donc pas cantonnées uniquement à la phase précédente.**
+
+![Waterfall itératif 2](../images/waterfall3.png?width=40pc)
+
+Mais cette boucle de feedback peut conduire à une refonte complète de l'ensemble du système et à un dépassement total des délais et du budget. Pour éviter une nouvelle conception, Royce introduit une étape supplémentaire, la *conception préliminaire du programme*, avant l'analyse. Le concepteur du programme travaille alors avec les analystes pour détecter toute conséquence des choix de conception du programme.
+
+![Waterfall itératif 3](../images/waterfall4.png?width=40pc)
+
+Durant cette phase, on va se concentrer sur la création d'une petite partie du système. 
+- Si nous souhaitons faire une refonte vers une architecture microservices nous allons essayé d'en faire un avant de tout basculer.
+- Si nous souhaitons mettre en place des API REST, nous allons faire de même essayer sur une petite partie du système de réaliser les étapes
+
+![Waterfall itératif 3bis](../images/waterfall4bis.png?width=40pc)
+
+
+## Conclusion
+
+Finalement, on peut résumer l'ensemble de modèle en Cascade avec le schéma suivant
+![Waterfall final schema](../images/waterfall_final.png)
+
+**Waterfall est itératif** :  
+Et nous pouvons donc bien dire que **Waterfall est itératif** car nous revenons sur les phases précédentes pour améliorer notre logiciel (avant qu'il soit trop tard et trop coûteux).

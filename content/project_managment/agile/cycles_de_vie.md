@@ -3,6 +3,11 @@ title = "Cycles de vie"
 weight = 10
 +++
 
+{{% notice style="tip" title="Ressources" icon="book" %}}
+- [Iterative and Incremental Development: A Brief History - 1930's --> Today](https://www.craiglarman.com/wiki/downloads/misc/history-of-iterative-larman-and-basili-ieee-computer.pdf)
+{{% /notice %}}
+
+
 ## Cycle de vie prédictif
 
 {{% notice style="warning" title="Définition" icon="pen" %}}
