@@ -1,0 +1,22 @@
++++
+title="Évènement Scrum"
+weight=80
++++
+{{% notice style="note" title="Affirmation" icon="check" %}}
+Les événements prescrits par Scrum créent de la régularité et minimisent la nécessité
+d’autres réunions non prévues.
+{{% /notice %}}
+
+Scrum prône la communication, l’ouverture et la transparence. Ainsi, le Scrum Guide propose
+quatre évènements durant un sprint.
+
+Tous les événements sont limités dans le temps, de telle sorte que chaque événement ait une
+durée maximale. Une fois le Sprint commencé, sa durée est fixe et ne peut être écourtée ou
+prolongée.
+
+{{% notice style="grey" title=" " icon=" " %}}
+Chaque évènement est l’occasion pour devenir plus productive ; en inspectant et adaptant
+de processus.
+{{% /notice %}}
+
+![Événement Scrum](../images/scrum_events.png)
