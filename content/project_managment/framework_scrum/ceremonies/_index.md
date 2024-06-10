@@ -1,5 +1,5 @@
 +++
-title="Évènement Scrum"
+title="Cérémonies Scrum"
 weight=80
 +++
 {{% notice style="note" title="Affirmation" icon="check" %}}
@@ -19,4 +19,7 @@ Chaque évènement est l’occasion pour devenir plus productive ; en inspectant
 de processus.
 {{% /notice %}}
 
-![Événement Scrum](../images/scrum_events.png)
+![Événement Scrum](images/scrum_events.png)
+
+**Note**  
+J'ai positionné volontaire les cérémonies Scrum à la fin du chapitre pour vous montrez que Scrum n'est pas qu'un ensemble d'évènements.
