@@ -36,3 +36,9 @@ l’échéancier le plus approprié pour la planification, les revues de produit
 
 - Itérative, car elle consiste en des cycles courts de développement, qui se déroulent généralement d’une manière similaire, avec des améliorations. 
 - Incrémentale, car elle produit un Incrément du produit. Chaque *Incrément* est une version livrable, et est meilleur que celui qui le précède.
+
+Ainsi, le framework Scrum combine les deux approches avec la notion de sprint :
+- à l'issue du sprint, il y a un *Incrément* de produit qui est réalisé
+- le feedback sollicité sur cet Incrément permet d'ajuster la cycle du produit dans le sprint suivant
+
+Un sprint est donc une itération qui produit un résultat qui ajoute un nouveau contenu (incrémental) et enrichit du contenu ajouté dans un incrément précédent (itératif).
