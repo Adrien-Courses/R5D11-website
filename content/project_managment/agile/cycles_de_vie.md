@@ -79,6 +79,10 @@ La figure ci-dessus montre trois phases de développement incrémental, chaque i
 de différente phase d’examen (itératif) et est intégré une fois terminé. Le tout est ensuite prêt à être
 déployé.
 
+A titre d'exemple Scrum combine l'approche Itérative et Incrémentale avec la notion de Sprint :
+- à l'issue du Spring, il y a un *Incrément* qui est réalisé
+- le feedback sollicité sur cet *Incrément* permet d'ajuster la cible dans le prochain Sprint
+
 **Note :**  
 Aujourd’hui, par abus de langage lorsqu’on parle de *développement itératif* on évoque à la fois l’aspect itératif et incrémental, sans ne faire aucune différence. C’est malheureusement regrettable pour
 l’industrie logicielle puisque chacun a un objectif différent et doit être géré différemment :

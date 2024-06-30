@@ -5,9 +5,15 @@ weight = 10
 
 L'agilité met en avant la dimension humaine; on retrouve les termes *collaboration*, *dynamique d'équipe*, *transparence*, *objectif inspirant*, *comment donner un vision aux salariés ?*
 
-Donc en plus de l'excellence technique, il y a un fort côté humain dans l'agilité (mais il est souvent oublié). En effet, ce qui vous apporte de la valeur au cours terme sont l'expérience technique; vous recrutez une personne car à court terme elle répondre à vos besoin (e.g. Java et pas C# sur le CV).
+Donc en plus de l'excellence technique, il y a un fort côté humain dans l'agilité (mais il est souvent oublié). En effet, ce qui vous apporte de la valeur au cours terme sont l'expérience technique; vous recrutez une personne car à court terme elle répondre à vos besoins (e.g. Java et pas C# sur le CV).
+
+> L'importance des gens, le côté humain c'est le principal différenciateur de la philosophie Agile.
 
 Néanmoins, sur du long terme si vous ne reposez votre gestion de projet que sur des *hard-skill* vous ne pourrez par garder une dynamique d'équipe; qui elle repose plus sur l'aspect social et humain que l'entreprise ou vous (en tant que manager) donnez.
+
+{{% notice style="note" title=" " icon=" " %}}
+**Les individus et leurs interactions, de préférence aux processus et aux outils**
+{{% /notice %}}
 
 ## Définir la dimension humaine 
 
