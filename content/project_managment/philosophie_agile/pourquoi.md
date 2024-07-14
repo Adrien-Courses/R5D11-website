@@ -1,6 +1,6 @@
 +++
 title = "Pourquoi devenir Agile ?"
-weight = 4
+weight = 40
 +++
 
 Tout au long de ce premier chapitre nous avons présenté les avantages de l'agilité. Voici un résumé des principales réponses à la question *Pourquoi devenir Agile ?*

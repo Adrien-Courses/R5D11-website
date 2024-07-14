@@ -1,6 +1,6 @@
 +++
 title = "Le Manifeste Agile"
-weight = 3
+weight = 30
 +++
 
 Le manifeste Agile est créé en 2001 dans un contexte où les entreprises sont trop concentrées

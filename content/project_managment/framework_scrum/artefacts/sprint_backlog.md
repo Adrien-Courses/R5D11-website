@@ -49,3 +49,4 @@ accorde à chacune d’elles.
 Le Sprint Backlog reflète les exigences du point de vue de l’équipe de développement. Il s’agit
 d’une liste de tâches dans laquelle les user-stories qui doivent être réalisées au cours du sprint
 sont décomposées.
+

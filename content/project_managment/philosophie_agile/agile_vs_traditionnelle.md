@@ -1,6 +1,6 @@
 +++
 title = "Agile VS Traditionnelle"
-weight = 6
+weight = 60
 +++
 
 Dans un modèle en cascade, on ne commence la phase suivante uniquement lorsque la précédente est finie. Par conséquent :

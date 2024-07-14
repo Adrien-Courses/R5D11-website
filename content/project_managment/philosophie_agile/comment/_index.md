@@ -1,7 +1,7 @@
 +++
 linkTitle = "Comment devenir Agile ?"
 title = "Comment créer une équipe Agile ?"
-weight = 5
+weight = 50
 +++
 
 {{% notice style="warning" title="Definition" icon="pen" %}}
