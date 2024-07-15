@@ -1,6 +1,6 @@
 +++
 title="A-t-on besoin d'estimer ?"
-weight=1
+weight=10
 +++
 
 L'estimation est une activé principale et prenante dans la gestion de projet classique. Mais quand est-il lorsqu'on parle d'agilité et qu'on utilise un framework comme Scrum ?
