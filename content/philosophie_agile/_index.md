@@ -3,6 +3,7 @@ archetype= "chapter"
 menuPre = "Chap1 - "
 title = "Philosophie Agile"
 weight = 1
+isBoldTitle = true
 +++
 
 Dans ce premier chapitre nous revenons aux fondamentaux de la philosophie Agile. Nous allons détailler ensemble sa genèse ainsi que ses caractéristiques afin de comprendre comment

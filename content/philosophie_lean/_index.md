@@ -3,6 +3,7 @@ menuPre = "Chap2 - "
 title = "Philosophie Lean"
 weight = 2
 archetype= "chapter"
+isBoldTitle = true
 +++
 
 ## Table des matières

@@ -3,6 +3,7 @@ archetype= "chapter"
 menuPre = "Chap3 - "
 title = "Framework Scrum"
 weight = 3
+isBoldTitle = true
 +++
 
 {{% notice style="tip" title="Ressources" icon="book" %}}

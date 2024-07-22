@@ -1,6 +1,7 @@
 +++
 title = "Agile"
 weight = 10
+isBoldTitle = true
 +++
 
 {{% notice style="tip" title="Ressources" icon="book" %}}
