@@ -1,6 +1,6 @@
 +++
-title = "Déclaration des droit"
-weight = 25
+title = "Déclaration des droits"
+weight = 30
 +++
 
 {{% notice style="tip" title="Ressources" icon="book" %}}

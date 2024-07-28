@@ -1,8 +1,13 @@
 +++
 linkTitle = "Comment devenir Agile ?"
 title = "Comment créer une équipe Agile ?"
-weight = 50
+weight = 20
 +++
+
+{{% notice style="tip" title="Ressources" icon="book" %}}
+- [Remise en question de la notion de Mindset Agile](https://medium.zenika.com/o%C3%B9-je-me-suis-tromp%C3%A9-sur-lagilit%C3%A9-l-%C3%A9tat-d-esprit-9f494ba04f70)
+{{% /notice %}}
+
 
 {{% notice style="warning" title="Definition" icon="pen" %}}
 Vous ne pouvez pas créer une équipe Agile sans comprendre et partir du haut de la pyramide
@@ -25,9 +30,11 @@ frameworks et pratiques.
 {{% /notice %}}
 
 ## Le Mindset Agile
-C'est ce que nous avons vu dans la section dédié à la philosophie Agile.
+Nous reviendrons sur la notion de Mindset Agile dans la section dédié à la [Philosophie Agile]({{% relref "../philosophie/_index.md" %}})
 
 Également il est important de ne pas confondre Agile et les Framework Agile. Agile représente une philosophie globale pour le développement de logiciels. Elle met l’accent sur la création d’un produit de haute qualité via des itérations.
 Pour accomplir cet objectif, de nombreux frameworks ont été développés.
 
 ![Agile framework](../images/agile_framework.png)
+
+Également lire la ressource [Remise en question de la notion de Mindset Agile](https://medium.zenika.com/o%C3%B9-je-me-suis-tromp%C3%A9-sur-lagilit%C3%A9-l-%C3%A9tat-d-esprit-9f494ba04f70) qui va à l'encontre de la notion d'état d'esprit.

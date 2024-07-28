@@ -77,3 +77,6 @@ Dans cette étape, les développeurs vont s’orienter technique. Ils vont
 découper, changer, discuter des éléments.
 
 ![Spring planning étapes](../images/sprint_planning.png)
+
+## Résultat 
+À l’issue de cette réunion de planification, **l’ensemble de l’équipe dispose d’un *Sprint backlog***, c’est-à-dire un sous-ensemble du *Product backlog* initial qui ne comporte que les tâches des stories qui seront implémentées dans cette itération. Il résulte de la formalisation des échanges de la réunion qui ont souvent lieu autour d’un tableau blanc et de Post-it. Il est important de noter que dans le product backlog on liste des fonctionnalités, alors que dans le sprint backlog, on bascule vers les activités correspondant aux fonctionnalités implémentées.

@@ -1,6 +1,6 @@
 +++
 archetype= "chapter"
-menuPre = "Chap0 - "
+menuPre = ""
 title = "Modèle en Cascade"
 weight = 1
 isBoldTitle = true

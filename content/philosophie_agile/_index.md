@@ -1,6 +1,6 @@
 +++
 archetype= "chapter"
-menuPre = "Chap1 - "
+menuPre = ""
 title = "Philosophie Agile"
 weight = 1
 isBoldTitle = true

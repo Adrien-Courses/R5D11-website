@@ -1,6 +1,6 @@
 +++
 title = "Agile"
-weight = 10
+weight = 8
 isBoldTitle = true
 +++
 

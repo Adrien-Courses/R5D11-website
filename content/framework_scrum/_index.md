@@ -1,8 +1,8 @@
 +++
 archetype= "chapter"
-menuPre = "Chap3 - "
+menuPre = ""
 title = "Framework Scrum"
-weight = 3
+weight = 11
 isBoldTitle = true
 +++
 

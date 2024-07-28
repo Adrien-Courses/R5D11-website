@@ -1,5 +1,5 @@
 +++
-menuPre = "Chap2 - "
+menuPre = ""
 title = "Philosophie Lean"
 weight = 2
 archetype= "chapter"

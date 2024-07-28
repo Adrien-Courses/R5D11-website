@@ -1,6 +1,6 @@
 +++
-title = "La philosophie Agile"
-weight = 20
+title = "Que signifie Agile ?"
+weight = 10
 +++
 
 ## Définition
