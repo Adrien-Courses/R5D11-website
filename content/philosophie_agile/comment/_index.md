@@ -30,6 +30,11 @@ frameworks et pratiques.
 {{% /notice %}}
 
 ## Le Mindset Agile
+{{% notice style="tip" title="Ressources" icon="book" %}}
+- [Agile n'est pas un état d'esprit (mindset)](https://videos.univ-lr.fr/video/3107-mes-erreurs-agiles-le-mindset/)
+{{% /notice %}}
+
+
 Nous reviendrons sur la notion de Mindset Agile dans la section dédié à la [Philosophie Agile]({{% relref "../philosophie/_index.md" %}})
 
 Également il est important de ne pas confondre Agile et les Framework Agile. Agile représente une philosophie globale pour le développement de logiciels. Elle met l’accent sur la création d’un produit de haute qualité via des itérations.
