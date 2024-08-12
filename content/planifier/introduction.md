@@ -3,6 +3,11 @@ title = "Introduction"
 weight = 1
 +++
 
+
+{{% notice style="tip" title="Ressources" icon="book" %}}
+- A lire également [A-t-on besoin de planifier ?]({{% relref "reflexion/planifier" %}})
+{{% /notice %}}
+
 ## 5 niveaux de planification
 
 ![5 étapes planification](../images/5etape_planification.png)
