@@ -1,6 +1,7 @@
 baseURL = 'https://softwarearchitecture.fr/'
 languageCode = 'fr-FR'
 title = 'Intégration et Performance des SI'
+description = "Intégration et Performance des Systèmes d'information - IUT Rodez R5D11"
 theme = ["hugo-embed-pdf-shortcode", "hugo-theme-relearn"]
 enableInlineShortcodes = true
 relativeURLs = "True"
@@ -20,7 +21,6 @@ defaultContentLanguage = 'fr'
 [params]
   canonicalUrl = 'https://iut.adriencaubel.fr/'
   author.name = "Adrien CAUBEL"
-  description = "Intégration et Performance des Systèmes d'information - IUT Rodez R5D11"
   alwaysopen = true
   showVisitedLinks = false
   disableInlineCopyToClipBoard = true

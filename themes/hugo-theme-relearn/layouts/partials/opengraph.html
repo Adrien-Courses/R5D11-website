@@ -103,7 +103,7 @@
 {{- with site.Params.social.facebook_admin }}
   {{- $facebookAdmin = . }}
 {{- else }}
-  {{- with site.Social.facebook_admin }}
+  {{- with site.Params.social.facebook_admin }}
     {{- $facebookAdmin = . }}
     {{- $hugoVersion := "0.120.0" }}
     {{- if ge hugo.Version $hugoVersion }}

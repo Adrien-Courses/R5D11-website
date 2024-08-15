@@ -44,7 +44,7 @@
 {{- with site.Params.social.twitter }}
   {{- $twitterSite = . }}
 {{- else }}
-  {{- with site.Social.twitter }}
+  {{- with site.Params.social.twitter }}
     {{- $twitterSite = . }}
     {{- $hugoVersion := "0.120.0" }}
     {{- if ge hugo.Version $hugoVersion }}
