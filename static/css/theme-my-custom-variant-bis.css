@@ -50,6 +50,11 @@
 
 }
 
+h3 {
+  font-size: 1.6rem;
+  margin-bottom: -1rem;
+}
+
 #R-body-inner {
   font-family: "Roboto", sans-serif !important;
   font-size: 17px;

@@ -16,3 +16,9 @@ Malgré, que la communauté *Software Craftsmanship* ne préconise pas de pratiq
 - Partage : pair programming, programmation en groupe et propriété collective du code (XP)
 - Pragmatisme : je comprends les contraintes et m’adapte si nécessaire (rétrospectives de Scrum)
 - Professionnalisme : je traite mon client comme un partenaire (principe du « courage » d’XP)
+
+## Bienfaits
+Les pratiques craft apporte donc de nombreux bienfaits :
+- le gain en maîtrise (en limitants les bugs, en respectant une conception simple, etc) permet de respecter les délais et donc de subir moins de stress
+- la bonne qualité du code, laissant peu de place aux bugs et autorisant facilement les évolutions, permet de répondre au besoin et d'acquérir ou renouveler la confiance utilisateur
+- la compréhension accrue des besoins des utilisateurs, mais surtout de l'organisation, nous permet d'apporter une réelle valeur et de donner réellement du sens à notre travail

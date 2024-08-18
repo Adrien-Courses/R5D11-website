@@ -6,10 +6,13 @@ weight = 40
 
 {{% notice style="tip" title="Ressources" icon="book" %}}
 - [The Difference between Lean and Agile Software Development](https://www.leanessays.com/2015/06/lean-software-development-history.html)
-- [ LEAN vs AGILE : col bleu vs col blanc ? - Scrum Life](https://youtu.be/YTTiWZiUnjQ)
+- [LEAN vs AGILE : col bleu vs col blanc ? - Scrum Life](https://youtu.be/YTTiWZiUnjQ)
+- [Méthode Agile VS Lean - Vraiment concurrents ? ](https://youtu.be/DO_WInLIcdA)
 {{% /notice %}}
 
-## Similarité Lean & Agile
+**TL;DR : le mieux n'est pas d'opposé Lean à Agile mais de les considérer comme complémentaire; plus fort ensemble**
+
+## Lean & Agile complémentaires
 
 Lean et Agile sont deux variantes d’un même mouvement dans l’industrie du logiciel. Elles
 se concentrer sur la livraison efficace de produits dont les clients ont réellement besoin. La
@@ -21,7 +24,7 @@ fréquentes et des ajustements faciles aux besoins des clients au cours du déve
 - Lean se concentre davantage sur la limitation des "déchets", sur l’amélioration de l’efficacité
 du flux de production et de livraison.
 
-## Implémentation
+### Implémentation
 Agile et Lean sont des concepts généraux dont
 - Scrum and XP sont des implémentations Agile
 - Lean Software Development est une implémentation Lean

@@ -1,6 +1,6 @@
 +++
 title="Artisanat et Agile"
-weight=40
+weight=50
 +++
 
 > Les communautés Agile se concentrent d'abord sur les personnes et les processus dans les projets logiciel, les communautés Craftsmanship se focalisent sur le côté technique
