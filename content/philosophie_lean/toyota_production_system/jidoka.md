@@ -7,6 +7,7 @@ weight = 10
 {{% notice style="tip" title="Ressources" icon="book" %}}
 - [Comprendre le TPS #1 : le Jidoka (ou mise en évidence des obstacles)](https://blog.toyota-forklifts.fr/comprendre-tps-jidoka)
 - [Le jidoka appliqué au domaine logiciel](https://leblogdulean.com/2023/07/06/le-jidoka-applique-au-domaine-logiciel-pas-de-craftmanship-sans-respect/)
+- [Le lean sans le Jidoka n’est que du fordisme](https://www.institut-lean-france.fr/le-lean-sans-le-jidoka-nest-que-du-fordisme/)
 {{% /notice %}}
 
 ## Principes
@@ -25,6 +26,19 @@ Le principe du Jidoka consiste à arrêter le travail dès qu’un problème sur
 {{% notice style="warning" title="Definition" icon="pen" %}}
 Jidoka signifie *automatisation avec une touche d'humain*
 {{% /notice %}}
+
+> Personne ne comprend mieux les humains que les humains eux-mêmes, et le Jidoka est la clé pour en apprendre plus sur vos clients et créer des produits et services toujours meilleurs. [Le lean sans le Jidoka n’est que du fordisme](https://www.institut-lean-france.fr/le-lean-sans-le-jidoka-nest-que-du-fordisme/)
+
+Les managers obsédés par l’excellence opérationnelle s’imaginent que le but de l’automatisation est d’éliminer les coûts liés aux « ressources humaines ». Ils rêvent de systèmes automatiques que leurs clients puissent utiliser sans avoir à parler à qui que ce soit. Puis, ils ne comprennent pas pourquoi les clients dénigrent leur offre, cherchent des alternatives et fuient leur marque le plus vite possible. En effet, pour chaque appareil/logiciel, il existe deux dimensions qui dépendent de facteurs humains :
+- Le produit : L’outil mécanique que vous pouvez utiliser de façon autonome pour obtenir ce que vous désirez.
+- Le service : La personne à qui vous souhaitez parler lorsque vous rencontrez des problèmes avec la machine.
+
+Le service est essentiel, n’importe quel produit possède une composante de service qui lui est également rattachée. Il faut donc quelqu’un pour aider l’utilisateur pour :
+- Utiliser la machine de la bonne façon pour obtenir les bons résultats en fonction du niveau de complexité de son utilisation.
+- Réparer la machine lorsqu’elle tombe en panne.
+- Améliorer la machine et trouver des modèles plus intelligents, plus simples à utiliser et plus esthétiques.
+
+**L’intention du jidoka est de développer la part humaine d’un produit**
 
 ## Dans le monde logiciel ?
 Si l’on s’intéresse au développement logiciel dans le monde moderne, en particulier dans le domaine des services numériques, il est marqué par une double exigence : 
