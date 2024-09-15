@@ -1,6 +1,6 @@
 +++
 title = "Dimension Humaine"
-weight = 10
+weight = 30
 +++
 
 L'agilité met en avant la dimension humaine; on retrouve les termes *collaboration*, *dynamique d'équipe*, *transparence*, *objectif inspirant*, *comment donner un vision aux salariés ?*

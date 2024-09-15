@@ -4,6 +4,14 @@ title = "Waterfall est itératif"
 weight = 10
 +++
 
+{{% notice style="tip" title="Ressources" icon="book" %}}
+- [https://www.youtube.com/watch?v=NP9AIUT9nos](https://www.youtube.com/watch?v=NP9AIUT9nos)
+    - Moment marquant 11:53
+- [The Myth of the 'Waterfall' SDLC](http://www.bawiki.com/wiki/Waterfall.html)
+- [Dr. Royce and Waterfall](https://leanagiletraining.com/better-agile/dr-royce-and-waterfall/)
+  - Explication des 5 étapes du document de Royce
+{{% /notice %}}
+
 Dans cette section nous allons revenir sur le fonctionnement de la méthode Waterfall au travers de l'affirmation suivante.
 
 {{% notice style="note" title="Affirmation" icon="check" %}}
@@ -20,6 +28,13 @@ Cela devrait pour surprendre car traditionnellement on présente le modèle en c
 Et on ne se rend compte uniquement lors de la livraison que le travail réalisé n'est pas forcément en adéquation avec les spécifications du client.
 
 ![Waterfall incomplet](../images/waterfall1.png?width=40pc)
+
+Juste en dessous de cette figure 2, nous pouvons lire
+
+{{% notice style="warning" title=" " icon="  " %}}
+> I believe in this concept, **but the implementation described above is risky and invites failure**. The problem is illustrated in Figure 4.
+{{% /notice %}}
+
 
 ## Mais revenons au document de référence
 {{% notice style="tip" title="Ressources" icon="book" %}}

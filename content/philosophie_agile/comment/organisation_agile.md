@@ -1,5 +1,5 @@
 +++
-title = "Organisation Agile"
+title = "C'est le rôle du CEO"
 weight = 20
 +++
 
@@ -17,3 +17,6 @@ En conséquence, l'ensemble de l'effort fourni par cette équipe risque de ne pa
 {{% notice style="grey" title=" " icon=" " %}}
 On parle alors de Cycle en Vrum : [Water scrum fall ou Vrum](https://fr.wikipedia.org/wiki/Scrum_(d%C3%A9veloppement)#Water_scrum_fall_ou_Vrum)
 {{% /notice %}}
+
+## Alors quoi faire ?
+Une organisation s'est construire autour de process (e.g. Waterfall), il faut donc changer l'ensemble de la structure si vous souhaitez Agile. Et pour commencer pour devez inculquer la culture Agile; et c'est à la direction de le faire. En effet si la direction ne comprend Agile alors il n'y a aucune chance que cela fonctionne.
