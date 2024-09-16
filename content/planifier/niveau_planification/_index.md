@@ -1,14 +1,8 @@
 +++
-title = "Introduction"
-weight = 1
+title = "Les 5 niveau de planification"
+weight = 20
 +++
 
-
-{{% notice style="tip" title="Ressources" icon="book" %}}
-- A lire également [A-t-on besoin de planifier ?]({{% relref "reflexion/planifier" %}})
-{{% /notice %}}
-
-## 5 niveaux de planification
 
 ![5 étapes planification](../images/5etape_planification.png)
 ![Plan de Release](../images/release_plan.png)

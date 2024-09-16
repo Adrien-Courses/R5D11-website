@@ -4,6 +4,11 @@ title = "Pourquoi le Lean ?"
 weight = 30
 +++
 
+{{% notice style="tip" title="Ressources" icon="book" %}}
+- [Lean vs TPS](https://www.allaboutlean.com/tps-and-lean/)
+- [Difference between Toyota Production System (TPS) and Lean](https://www.linkedin.com/pulse/difference-between-toyota-production-system-tps-lean-boris-hodak/)
+{{% /notice %}}
+
 On s’intéresse au Lean pour les raisons suivantes
 
 ## Réduire le gaspillage
