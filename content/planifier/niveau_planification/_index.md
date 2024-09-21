@@ -3,6 +3,9 @@ title = "Les 5 niveau de planification"
 weight = 20
 +++
 
+{{% notice style="tip" title="Ressources" icon="book" %}}
+- [http://www.agile-process.org/iterative.html](http://www.agile-process.org/iterative.html)
+{{% /notice %}}
 
 ![5 étapes planification](../images/5etape_planification.png)
 ![Plan de Release](../images/release_plan.png)
