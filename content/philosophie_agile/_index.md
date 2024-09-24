@@ -11,6 +11,3 @@ elle s’est imposée dans le développement de logiciel.
 
 ## Table des matières
 {{% children depth="999" showhidden="true" %}}
-
-## Slides
-{{< embed-pdf url="/pdf/session1/chap1-Agile-diapo.pdf" hidePaginator="true" >}}

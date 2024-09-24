@@ -5,10 +5,21 @@ weight = 30
 
 {{% notice style="tip" title="Ressources" icon="book" %}}
 - [Faire une planning release en agile](https://blog.myagilepartner.fr/index.php/2017/06/11/faire-une-planning-release/)
+- Chapitre 13 - Agile Estimation and Planning
 {{% /notice %}}
 
+## Release Plan
+Le Release Plan est un plan de haut niveau qui couvre une période de plusieurs itération. Ces objectifs sont :
+- d'aider le PO et l'équipe à savoir combien de choses (US) seront développées et pour quelle date
+- de définir les attendus de ce qui sera développé dans les prochains mois
+
+En d'autres termes, le RP permet de savoir "ce qu'il est possible (how much) d'accomplir pour quelle date"
+
+### Release Plan et User Stories
+Le RP doit être revisité et mis à jour de manière régulière. Le RP ne décrit pas non plus avec précision ce qui sera réalisé dans chaque itération. Par conséquent, le plus adéquat est d'identifier les US que lesquels nous allons travailler pendant les premières itérations, laissant les autres US à classer dans une itération future.
+
 ## Prélude, Interlude, Postlude
-Avant nos saisons nous avons un prélude, entre nos saisons nous réaliserons l’interlude avant de finir avec le postlude
+Avant nos saisons (release) nous avons un prélude, entre nos saisons nous réaliserons l’interlude avant de finir avec le postlude
 
 ![Release](../images/release.png)
 

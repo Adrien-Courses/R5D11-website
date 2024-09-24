@@ -14,6 +14,3 @@ isBoldTitle = true
 
 ## Table des matières
 {{% children depth="999" showhidden="true" %}}
-
-## Slides
-

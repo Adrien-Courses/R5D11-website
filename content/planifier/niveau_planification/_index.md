@@ -1,5 +1,5 @@
 +++
-title = "Les 5 niveau de planification"
+title = "Les 5 niveaux de planification"
 weight = 20
 +++
 

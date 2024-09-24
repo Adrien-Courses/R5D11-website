@@ -14,7 +14,7 @@ weight = 20
 Une Roadmap représente la stratégie du produit à long terme
 {{% /notice %}}
 
-En suivant la philosophie Agile, cette Roadmap ne doit pas être un plan qu'on va suivre scrupuleusement. Une roadmap est donc un ensemble de chemin diverses permettant d’atteindre un but.
+En suivant la philosophie Agile, cette Roadmap ne doit pas être un plan qu'on va suivre scrupuleusement. Une roadmap est un ensemble de chemin diverses permettant d’atteindre un but.
 
 > Une roadmap n’est pas une série de jalon à suivre (sinon ça s’appelle un planning). 
 
