@@ -39,7 +39,8 @@ Juste en dessous de cette figure 2, nous pouvons lire
 ## Mais revenons au document de référence
 {{% notice style="tip" title="Ressources" icon="book" %}}
 - [Waterfall document d'origine par Royce - Managing the development of large software systems](https://www.praxisframework.org/files/royce1970.pdf)
-- [Explication du Waterfall en se basant sur Rouyce](http://beza1e1.tuxen.de/waterfall.html)
+- [Explication du Waterfall en se basant sur Royce](http://beza1e1.tuxen.de/waterfall.html)
+- [Erik Moberg - The Waterfall Model Does Not Exist - YouTube](https://youtu.be/L4ElOdbiTqQ)
 {{% /notice %}}
 
 L'étude du modèle en Cascade s'arrête souvent à la conclusion du paragraphe précédent. Néanmoins si nous lisons le document d'origine nous nous rendons vite compte que le modèle en Cascade n'est pas celui souvent décrit.
