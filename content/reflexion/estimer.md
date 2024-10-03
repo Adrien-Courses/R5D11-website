@@ -86,6 +86,7 @@ Le principal avantage des estimations c'est la discussion qu'il y a autour :
 
 En NoEstimate on va garder cette dynamique mais on ne va pas y associer des US Points.
 
+![estimate_slow_down.png](../images/estimate_slow_down.png)
 
 ## Mais il faut bien s'engager ?
 [Comment s'engager tout en restant Agile ? - Scrum Life 43](https://youtu.be/VfCCsavI2D8)
@@ -93,3 +94,8 @@ En NoEstimate on va garder cette dynamique mais on ne va pas y associer des US P
 Il est tout à fait normal d'avoir des contraintes dur à notre projet (e.g. un budget, une date car un évènement présent à cette date). *Agile Estimating and Planning* fait le tour de cette question.
 
 Scrum nous apporte également un élément de réponse, l'équipe s'engage *à produire un Incrément qui respecte le Sprint Goal et la qualité définie par la Definition of Done*. Ainsi en ayant une vision d'un objectif orienté sur la valeur, l'équipe aura choisi les US les plus propices pour atteindre le Sprint Goal. L'équipe ne s'est donc pas engagé sur un nombre d'US à finir ou d'une vélocité à maintenir mais sur la valeur à produire.
+
+{{% notice style="affirmation" title="Définition" icon="pen" %}}
+L'une des principales raisons de l'estimation réside dans les conversations qui découlent pour déterminer la taille des US.  
+Pourquoi quelqu'un pense que cet objet est grand ou petit.
+{{% /notice %}}
