@@ -3,6 +3,10 @@ title="Introduction"
 weight=10
 +++
 
+{{% notice style="tip" title="Ressources" icon="book" %}}
+- [Être plus réactif avec Kanban - Introduction à Kanban - Scrum Life 72](https://youtu.be/i-GotUT8VzQ)
+{{% /notice %}}
+
 {{% notice style="note" title="Affirmation" icon="check" %}}
 L’objectif de Kanban est d’équilibrer la demande client avec la capacité de travail.
 {{% /notice %}}
