@@ -44,6 +44,8 @@ Enfin, l'anneau interne du Cercle de vie s'intéresse aux pratiques techniques q
 
 - **Le développement dirigé par les tests** concerne la barrière de sécurité qui permet à l'équipe technique de progresser rapidement tout en maintenant une qualité optimale.
 
+> The big difference between Scrum and XP is that Scrum does not contain practices specifically for programming, whereas XP has lots of them (TDD, continuous integration, pair programming). 
+
 ## Lien avec Manifeste Agile
 Toutes ces pratiques s'articulent très bien avec les objectifs du manifeste Agile, et ce sur de nombreux points.
 

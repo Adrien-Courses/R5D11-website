@@ -5,7 +5,7 @@ weight = 30
 
 {{% notice style="tip" title="Ressources" icon="book" %}}
 - Clean Agile - Chapitre 2 : Déclaration des droits
-- [Reprise de la déclaration des droits](https://www.informit.com/articles/article.aspx?p=2990402&seqNum=3)
+- [The Bill of Rights](https://www.informit.com/articles/article.aspx?p=2990402&seqNum=3)
 {{% /notice %}}
 
 {{% notice style="warning" title="Definition" icon="pen" %}}

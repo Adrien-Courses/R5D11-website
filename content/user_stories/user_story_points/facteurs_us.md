@@ -15,6 +15,8 @@ Les points indiquent simplement le degré d'effort que chaque US représente PAR
 > So, story points are an estimate of the effort involved in doing something. That estimate should be based on a number of factors, including the volume of work, the risk or uncertainty inherent in the work, and the complexity of the work.  
 > But story points are not solely about complexity.
 
+> Story Points are about effort. Complexity, uncertainty, and risk are factors that influence effort, but each alone is not enough to determine effort.
+
 - La complexité : 
 
 - Risque/Incertitude : est-ce qu'il y a un risque que durant la réalisation de l'US nous découvrons du travail supplémentaire ?
