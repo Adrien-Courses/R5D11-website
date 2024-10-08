@@ -21,3 +21,6 @@ title = "Ressources"
 {{< embed-pdf url="/pdf/06_framework_xp.pdf" hidePaginator="true" >}}
 {{< embed-pdf url="/pdf/07_framework_scrum.pdf" hidePaginator="true" >}}
 {{< embed-pdf url="/pdf/07_framework_nexus.pdf" hidePaginator="true" >}}
+{{< embed-pdf url="/pdf/08_kanban.pdf" hidePaginator="true" >}}
+{{< embed-pdf url="/pdf/09_user_stories_invest.pdf" hidePaginator="true" >}}
+{{< embed-pdf url="/pdf/09_user_stories_mapping.pdf" hidePaginator="true" >}}
