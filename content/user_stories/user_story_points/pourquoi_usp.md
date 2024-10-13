@@ -61,4 +61,4 @@ PS : si vous prenez les 3h evoquées précédement vous allez retomber sur 10 :
 - 250 USP * 3USP/h = 750h
 - 750h / 80h (2x40h) = +-10
 
-MAIS ceci n'est possible que théorique, car nous transformons des nombres. Aurions-nous était capable au début de prédire 750h (sans passer par les USP). Ceci aurait forcément était plus compliqué. En passant par les USP nous simplifions le process d'estimation en le rendant abstrait => on se concentrera plus sur la discussion autour que la valeur de l'estimation (i.g. comprendre pourquoi A dit 3 USP et B dit 8 USP)
+MAIS ceci n'est possible que théorique, car nous transformons des nombres. Aurions-nous était capable au début de prédire 750h (sans passer par les USP). Ceci aurait forcément était plus compliqué. En passant par les USP nous simplifions le process d'estimation en le rendant abstrait => on se concentrera plus sur la discussion autour que la valeur de l'estimation (i.e. comprendre pourquoi A dit 3 USP et B dit 8 USP)

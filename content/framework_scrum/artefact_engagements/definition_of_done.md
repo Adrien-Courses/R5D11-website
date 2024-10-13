@@ -7,7 +7,7 @@ weight=3
 La Definition of Done inclut toutes les caractéristiques et normes qu’une tâche doit remplir
 pour être considérée comme finie. Elle définit un niveau de qualité à respecter.
 {{% /notice %}}
-Une fois la tâche considérée comme réellement finie (i.g. rempli la Definition of Done) alors
+Une fois la tâche considérée comme réellement finie (i.e. rempli la Definition of Done) alors
 elle est ajoutée à l’Incrément du sprint
 
 ![Definition of Done](../images/dod.png?width=40pc)

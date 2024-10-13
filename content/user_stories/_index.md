@@ -4,7 +4,9 @@ weight = 50
 isBoldTitle = true
 +++
 
-- user-story et story point
-  - Story estimation
-- INVEST stories
-- user story mapping
+Dans ce chapitre nous revenons sur les Users Stories
+- Comment les décrire avec INVEST
+- Et le moyen pour y arriver via l'atelier User Story Mapping
+
+## Table des matières
+{{% children depth="999" showhidden="true" %}}
