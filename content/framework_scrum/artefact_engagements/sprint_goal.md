@@ -3,6 +3,10 @@ title="Sprint Goal"
 weight=2
 +++
 
+{{% notice style="tip" title="Ressources" icon="book" %}}
+- [Sprint Goal : son utilité ? (IRL)](https://forum.scrumlife.tv/t/sprint-goal-son-utilite-irl/2852/10)
+{{% /notice %}}
+
 {{% notice style="warning" title="Definition" icon="pen" %}}
 L’objectif de sprint (sprint goal) est l’UNIQUE tâche qui doit être absolument réalisée à la
 fin du sprint.
