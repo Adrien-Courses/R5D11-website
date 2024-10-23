@@ -1,4 +1,4 @@
-baseURL = 'https://softwarearchitecture.fr/'
+baseURL = 'https://agile.adriencaubel.fr/'
 languageCode = 'fr-FR'
 title = 'Intégration et Performance des SI'
 description = "Intégration et Performance des Systèmes d'information - IUT Rodez R5D11"
@@ -19,7 +19,7 @@ defaultContentLanguage = 'fr'
   home = ["HTML", "RSS", "SEARCH", "SEARCHPAGE"]
 
 [params]
-  canonicalUrl = 'https://iut.adriencaubel.fr/'
+  canonicalUrl = 'https://agile.adriencaubel.fr/'
   author.name = "Adrien CAUBEL"
   alwaysopen = true
   showVisitedLinks = false
