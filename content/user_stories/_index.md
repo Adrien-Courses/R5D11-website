@@ -1,4 +1,5 @@
 +++
+archetype= "chapter"
 title = "Récits utilisateur"
 weight = 50
 isBoldTitle = true
