@@ -107,7 +107,7 @@ Concerne uniquement les données :
 ### Délais et Modalités d'Exercise
 
 - **Délai de réponse** : 1 mois (extensible à 3 mois si complexité).
-- **Gratuité du service** (sauf demandes manifestement infondées ou excessives).
+- **Gratuité du service**
 - **Vérification de l'identité** du demandeur.
 - **Possibilité de refus motivé**.
 - **Information sur les voies de recours**.
