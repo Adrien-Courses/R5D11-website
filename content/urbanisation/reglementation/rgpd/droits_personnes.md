@@ -3,6 +3,11 @@ title = "Les Droits des Personnes"
 weight = 20
 +++
 
+{{% notice style="tip" title="Ressources" icon="book" %}}
+- [https://www.cnil.fr/fr/passer-laction/les-droits-des-personnes-sur-leurs-donnees](https://www.cnil.fr/fr/passer-laction/les-droits-des-personnes-sur-leurs-donnees)
+- [Les droits des personnes avec le RGPD](https://rgpd.orson.io/11/rgpd-et-droits-des-personnes)
+{{% /notice %}}
+
 - Droit d'accès à ses données
 - Droit de rectification
 - Droit à l'effacement ("droit à l'oubli")
