@@ -7,8 +7,8 @@ weight = 20
 - [http://www.agile-process.org/iterative.html](http://www.agile-process.org/iterative.html)
 {{% /notice %}}
 
-![5 étapes planification](../images/5etape_planification.png)
-![Plan de Release](../images/release_plan.png)
+![5 étapes planification](images/5etape_planification.png)
+![Plan de Release](images/release_plan.png)
 
 1. **Vision** : Il s’agit du niveau de planification global établi à partir de la vision du produit et du product backlog. La vision indique la ligne d’arrivée.
    
