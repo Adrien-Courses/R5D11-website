@@ -1,6 +1,6 @@
 +++
 title = "Projet VS Produit"
-weight = 5
+weight = 7
 +++
 
 {{% notice style="tip" title="Ressources" icon="book" %}}

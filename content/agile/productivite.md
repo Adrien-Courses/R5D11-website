@@ -23,15 +23,3 @@ Dans les approches agiles, on parle souvent de la valeur livrée et du feedback 
 On notera également qu'**on suit la productivité de l'équipe**, on ne suit pas la productivité de l'individu, car on veut créer les conditions de la collaboration et on ne souhaite pas passer du côté obscur du productivisme
 
 
-<!-- ## Des métriques qui ont du sens
-
-📊 Des métriques qui ont du sens
-Voici quelques indicateurs qui peuvent vraiment faire la différence :
-Vélocité d'équipe
-Mesure la quantité de travail accompli par sprint. C'est comme évaluer combien de scènes votre troupe peut jouer par représentation.
-Satisfaction client
-Utilisez des enquêtes régulières ou le Net Promoter Score. Après tout, les applaudissements du public sont le vrai baromètre du succès !
-Temps de cycle
-Mesure le temps entre le début et la fin d'une tâche. C'est comme chronométrer le temps qu'il faut pour monter une nouvelle scène.
-Qualité du produit
-Suivez le nombre de bugs ou de problèmes signalés. Personne ne veut voir un acteur trébucher sur scène ! -->
