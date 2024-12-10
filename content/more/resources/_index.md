@@ -26,3 +26,6 @@ title = "Ressources"
 {{< embed-pdf url="/pdf/09_user_stories_mapping.pdf" hidePaginator="true" >}}
 {{< embed-pdf url="/pdf/10_urbanisation.pdf" hidePaginator="true" >}}
 {{< embed-pdf url="/pdf/11_architecture_styles.pdf" hidePaginator="true" >}}
+
+{{< embed-pdf url="/pdf/old_API_Design.pdf" hidePaginator="true" >}}
+{{< embed-pdf url="/pdf/old_C4_Model.pdf" hidePaginator="true" >}}
