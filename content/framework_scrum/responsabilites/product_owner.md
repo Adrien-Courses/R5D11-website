@@ -1,6 +1,6 @@
 +++
 title="Product Owner"
-weight=1
+weight=30
 +++
 
 {{% notice style="warning" title="Definition" icon="pen" %}}

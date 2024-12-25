@@ -1,6 +1,6 @@
 +++
 title="Développeurs"
-weight=3
+weight=10
 +++
 
 {{% notice style="grey" title=" " icon=" " %}}

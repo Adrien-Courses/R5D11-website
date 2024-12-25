@@ -27,6 +27,20 @@ Tous les membres de l’équipe doivent comprendre les objectifs du projet et s�
 être mises à la disposition de tous les membres qui participeront au projet. La direction et les
 équipes doivent communiquer clairement entre elles pour éviter toute confusion.
 
+Ci-dessous quelques référence à *Scrum: The Art of Doing Twice the Work in Half the Time*
+
+> One element of Scrum that’s often **a prelude to achieving autonomy, mastery, and purpose is transparency**. The idea is that there should be no secret cabal, no hidden agendas, nothing behind the curtain. (p153)
+
+Jeff Sutherland donne également quelques exemples
+
+> They require that all public meetings be open, all records be available to the public, and that there be **nothing taking place behind closed doors—nothing hidden**. That’s why in Scrum anyone can go to any meeting. Any stakeholder can observe a Daily Stand-up or attend a Review. (p153)
+
+> So **in Scrum, everything is visible**. In my companies, every salary, every financial, every expenditure is available to everyone. (p154)
+
+Et conclura en fin de chapitre
+
+> **Secrecy Is Poison**. Nothing should be secret. Everyone should know everything, and that includes salaries and financials. Obfuscation only serves people who serve themselves. (p169)
+
 ## Inspection
 L’inspection est un processus d’évaluation, d’examen et d’amélioration à la fin de chaque
 événement programmatique. Elle exige que les utilisateurs de la mêlée inspectent régulièrement les progrès et les artefacts de la mêlée afin d’atteindre l’objectif général et d’éliminer

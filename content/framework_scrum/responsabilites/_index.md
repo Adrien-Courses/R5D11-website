@@ -9,7 +9,7 @@ weight=50
 
 
 {{% notice style="grey" title=" " icon=" " %}}
-Depuis le Scrum Guide 2020 on ne parle plus de rôle mais de responsabilités (accountabilities) :
+Depuis le Scrum Guide 2020 on ne parle plus de ~~rôles~~ mais de responsabilités (accountabilities) :
 - Responsibility : is task-oriented. Every person on a team may be responsible for a given task that is required to complete a massive project. 
 - Accountability : is what happens after a situation has occurred. It is how you respond and take ownership over the results. ("assumer")
 

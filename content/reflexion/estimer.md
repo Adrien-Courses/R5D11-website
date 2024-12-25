@@ -66,7 +66,9 @@ Ensuite,
 ### Une estimation compris comme engage
 Souvent une estimation est considérée comme un engagement, ainsi la partie commerciale vs s'engage auprès du client en annonçant que la feature sera fini dans 1 mois (en suivant nos estimations), mais que se passera-t-il si nous n'y arrivons pas à temps ? 
 
+{{% notice style="warning" title="Estimation != Engagement" icon="pen" %}}
 **Les estimations ne sont que des estimations et non un engagement** [Quand estimation rime avec engagement - Scrum Life 66](https://youtu.be/tPndNtnOrxY)
+{{% /notice %}}
 
 ### Privé l'équipe d'autonomie 
 > La plupart du temps, cette estimation sert à permettre à un tiers d’organiser le travail. C’est donc le moyen numéro un pour priver l’équipe d’autonomie

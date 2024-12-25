@@ -1,6 +1,6 @@
 +++
 title="Scrum Master"
-weight=2
+weight=20
 +++
 
 {{% notice style="warning" title="Definition" icon="pen" %}}
