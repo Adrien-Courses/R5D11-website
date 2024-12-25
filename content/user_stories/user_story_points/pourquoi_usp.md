@@ -1,11 +1,12 @@
 +++
-title = "Pourquoi des Story Points ?"
+title = "Pourquoi USP et pas heures ?"
 weight = 10
 +++
 
 {{% notice style="tip" title="Ressources" icon="book" %}}
 - [Don’t Equate Story Points to Hours](https://www.mountaingoatsoftware.com/blog/dont-equate-story-points-to-hours)
 - [Estimating with Story Points](https://www.mountaingoatsoftware.com/agile/agile-estimation-estimating-with-story-points)
+- [Story Points: Why are they better than hours?](https://www.scruminc.com/story-points-why-are-they-better-than/)
 - [https://www.scrum.org/resources/blog/why-do-we-use-story-points-estimating](https://www.scrum.org/resources/blog/why-do-we-use-story-points-estimating)
 {{% /notice %}}
 
@@ -56,6 +57,8 @@ Néanmoins, nous devons bien à un moment répondre à la question "Quand cela s
 Pour passer de notre estimation en USP (e.g. 250 USP) en durée nous utilisons la vélocité. Si l'équipe à une vélocité moyenne de 25 alors nous pouvons envisager de livrer la fonctionnalité dans 10 itérations.
 
 **La durée d'un projet n'est pas estimée mais dérivée du nombre total d'USP divisé par la vélocité de l'équipe.**
+
+> The important metric is the number of story points the team can deliver per unit of calendar time. The points per sprint is the velocity. Therefore we estimate everything in points for the Product Owner so that he create a release roadmap based on team velocity and adjust the plan if velocity changes. 
 
 PS : si vous prenez les 3h evoquées précédement vous allez retomber sur 10 :
 - 250 USP * 3USP/h = 750h
