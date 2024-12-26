@@ -1,5 +1,5 @@
 +++
-archetype= "chapter"
+type= "chapter"
 menuPre = ""
 title = "Framework Scrum"
 weight = 11

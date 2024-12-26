@@ -1,5 +1,5 @@
 +++
-archetype= "chapter"
+type= "chapter"
 menuPre = ""
 title = "Framework XP"
 weight = 10

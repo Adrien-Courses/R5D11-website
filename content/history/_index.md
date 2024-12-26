@@ -1,6 +1,6 @@
 +++
 title = "Timeline Gestion de Projet"
-archetype= "chapter"
+type= "chapter"
 isBoldTitle = true
 weight = -1
 +++

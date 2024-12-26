@@ -1,5 +1,5 @@
 +++
-archetype= "chapter"
+type= "chapter"
 menuPre = ""
 title = "Philosophie Agile"
 weight = 1

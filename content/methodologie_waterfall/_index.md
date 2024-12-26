@@ -1,5 +1,5 @@
 +++
-archetype= "chapter"
+type= "chapter"
 menuPre = ""
 title = "Modèle en Cascade"
 weight = 1

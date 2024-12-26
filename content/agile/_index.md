@@ -1,5 +1,5 @@
 +++
-archetype= "chapter"
+type= "chapter"
 title = "Agile"
 weight = 8
 isBoldTitle = true

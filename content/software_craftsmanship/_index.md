@@ -1,5 +1,5 @@
 +++
-archetype="chapter"
+type="chapter"
 title="Software Craftsmanship"
 weight=15
 isBoldTitle = true

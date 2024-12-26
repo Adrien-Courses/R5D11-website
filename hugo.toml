@@ -21,6 +21,7 @@ defaultContentLanguage = 'fr'
 [params]
   canonicalUrl = 'https://agile.adriencaubel.fr/'
   author.name = "Adrien CAUBEL"
+  collapsibleMenu = true
   alwaysopen = true
   showVisitedLinks = false
   disableInlineCopyToClipBoard = true
