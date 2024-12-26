@@ -3,6 +3,10 @@ title="Scrum par Jeff Sutherland"
 weight=90
 +++
 
+{{% notice style="tip" title="Ressources" icon="book" %}}
+- Scrum: The Art of Doing Twice the Work in Half the Time
+{{% /notice %}}
+
 Cette dernière section sur Scrum est un ensemble de note que j'ai trouvé intéressante lors de la lecture du livre *Scrum: The Art of Doing Twice the Work in Half the Time*
 
 ## L'auteur

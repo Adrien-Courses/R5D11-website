@@ -13,6 +13,8 @@ une brève description de quelle est l’exigence, qui en a besoin et pourquoi e
 Il consiste à un **plan provisoire à un instant t pour atteindre le Product Goal**.
 Le Product Backlog n’est jamais fini. Au commencement, nous y positionnons les fonctionnalités requises connues puis évolue au fil du développement du produit.
 
+> The right order one week won't be the same the next week [^1]
+
 Le Product Backlog n’est pas définitif, il évolue tout au long du processus de création. L’équipe
 va découvrir de nouveaux éléments à ajouter (émergent).
 
@@ -42,3 +44,5 @@ Liste d’éléments attendus qu’une user story doit rassembler pour être can
 
 Étant donné que les exigences ne sont définies que de manière vague, elles doivent être
 affinées et clairement définies avant d’être intégrées dans le sprint.
+
+[^1]: Scrum: The Art of Doing Twice the Work in Half the Time - p189
